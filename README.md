@@ -122,9 +122,6 @@ Joost Van Ulden - [jvanulde](https://github.com/jvanulde) - joost.vanulden@canad
 
 Nicky Hastings - nicky.hastings@canada.ca
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-
 Project Link: [https://github.com/OpenDRR/data](https://github.com/OpenDRR/data)
 
 
@@ -133,7 +130,7 @@ Project Link: [https://github.com/OpenDRR/data](https://github.com/OpenDRR/data)
 ## Acknowledgements
 * [Web Experience Toolkit](https://github.com/wet-boew/wet-boew)
 * [Jekyll Data Pages Generator](https://github.com/avillafiorita/jekyll-datapage_gen)
-* [Choose an Open Source License](https://choosealicense.com)
+* [Leaflet](https://leafletjs.com/)
 * [GitHub Pages](https://pages.github.com)
 
 
