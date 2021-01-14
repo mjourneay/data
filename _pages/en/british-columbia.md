@@ -10,7 +10,7 @@ noMainContainer: false
 sitemenu: true
 sitesearch: true
 title: British Columbia
-permalink: /data/en/british-columbia/
+permalink: /en/british-columbia/
 ---
 
 
